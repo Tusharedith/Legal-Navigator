@@ -13,8 +13,8 @@ class ChatView extends ConsumerWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('LegallyMinted'),
-        backgroundColor: Color.fromARGB(255, 218, 231, 244), // Adjusted color
+        title: Text('LegalNavigator'),
+        backgroundColor: Color.fromARGB(255, 47, 89, 153), // Adjusted color
       ),
       body: Container(
         color: Colors.white,
@@ -32,13 +32,13 @@ class ChatView extends ConsumerWidget {
                       margin: const EdgeInsets.symmetric(vertical: 4),
                       padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 14),
                       decoration: BoxDecoration(
-                        color: isUserMessage ? Colors.lightBlue[100] : Color.fromARGB(255, 58, 123, 212),
+                        color: isUserMessage ? Colors.lightBlue[100] : Color.fromARGB(255, 245, 170, 30),
                         borderRadius: BorderRadius.circular(20),
                       ),
                       child: Text(
                         chatMessages[index],
                         style: TextStyle(
-                          color: isUserMessage ? Colors.black : Colors.white,
+                          color: isUserMessage ? Colors.black : const Color.fromARGB(255, 0, 0, 0),
                         ),
                       ),
                     ),
