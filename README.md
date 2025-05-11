@@ -116,9 +116,9 @@ Open your browser and go to:
 http://localhost:5000
 
 🖼️ Screenshots
-<p align="center"><img src="https://github.com/Tusharedith/Legal-Navigator/blob/main/ScreenShots/Screenshot%202024-03-20%20201555.png? raw=true" height="40%" width="33%" alt="Login">
-<img src="https://github.com/Tusharedith/Legal-Navigator/blob/main/ScreenShots/01.png?raw=true" width="33%" alt="Home Page">
-<img src="https://github.com/Tusharedith/Legal-Navigator/blob/main/ScreenShots/05.png?raw=true" width="33%" alt="Chatbot Interaction"> </p>
+<p align="center"><img src="https://github.com/Tusharedith/Legal-Navigator/blob/main/ScreenShots/Screenshot%202024-03-20%20201555.png? raw=true" height="30%" width="25%" alt="Login">
+<img src="https://github.com/Tusharedith/Legal-Navigator/blob/main/ScreenShots/01.png?raw=true" width="25%" alt="Home Page">
+<img src="https://github.com/Tusharedith/Legal-Navigator/blob/main/ScreenShots/05.png?raw=true" width="25%" alt="Chatbot Interaction"> </p>
 🧪 Usage
 
 <br>
