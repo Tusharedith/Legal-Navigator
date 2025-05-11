@@ -60,13 +60,14 @@ The goal is to create a legal co-pilot that empowers users to become informed an
 
 ## 🛠️ Tech Stack
 
-| Layer        | Technology / Tool                       |
-|--------------|------------------------------------------|
-| Frontend     | HTML5, CSS3, JavaScript, Bootstrap       |
-| Backend      | Python, Flask                            |
-| AI Engine    | OpenAI ChatGPT API (GPT-4)               |
-| News Feed    | Google News API / Google Custom Search   |
-| Database     | SQLite (or any other optional DBMS)      |
+| Layer        | Technology / Tool                         |
+|--------------|--------------------------------------------|
+| Frontend     | Flutter (Dart)                             |
+| Backend      | Flask (Python) or Firebase Functions       |
+| AI Engine    | OpenAI ChatGPT API (GPT-4)                 |
+| News Feed    | Google News API / Google Custom Search API |
+| Database     | Firebase Firestore / SQLite (if local)     |
+| Hosting      | Firebase Hosting / GitHub Pages (Web App)  |
 
 ---
 
